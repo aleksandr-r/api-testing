@@ -1,0 +1,8 @@
+token: 57868a47750911e88bd82b4b8c40aa1678a650b5ee3aedd28752ebdee23a4593
+
+
+--https://www.youtube.com/watch?v=yuRCVJAuhfA 2:08
+kitas video apie autotestus: https://www.youtube.com/watch?v=xR4D2bp8_S0
+
+
+ALT+SHIFT+F - formatavimas
