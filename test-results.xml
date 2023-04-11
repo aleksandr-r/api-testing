@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="1.268" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2023-04-11T20:32:22" tests="0" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="User Posts" timestamp="2023-04-11T20:32:22" tests="0" file="C:\Users\A\Documents\Test Automation\api-testing\test\7. posts (with async await, hooks, helper, negative cases and config file and faker and dotenv.js" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Negative tests" timestamp="2023-04-11T20:32:22" tests="1" file="C:\Users\A\Documents\Test Automation\api-testing\test\7. posts (with async await, hooks, helper, negative cases and config file and faker and dotenv.js" time="0.587" failures="0">
+    <testcase name="User Posts Negative tests 422 Validation failed" time="0.585" classname="422 Validation failed">
+    </testcase>
+  </testsuite>
+</testsuites>
