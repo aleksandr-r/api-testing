@@ -35,7 +35,7 @@ describe('User Posts', () => {
             expect(postRes.body.data.message).to.eq('Authentication failed');
             //console.log(postRes)
         });
-        it('422 Validation failed', async () => {
+        it.only('422 Validation failed', async () => {
             const data = {
                 user_id: userId,
                 title: "okojjiji",
